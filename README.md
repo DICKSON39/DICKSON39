@@ -10,7 +10,7 @@ I'm a passionate **Fullstack Web Developer** who loves building modern web appli
 - 🌱 **Leveling up on:** Kubernetes & DevOps tools  
 - 💬 **Ask me about:** TypeScript, Express.js, PostgreSQL, Angular, React  
 - 💞️ **Open to collaborate on:** Fullstack projects, hackathons, or anything cool  
-- 📫 **Reach me at:** [your-email@example.com] or on [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📫 **Reach me at:** [dicksonndumia19@gmail.com] or on [LinkedIn](www.linkedin.com/in/dickson-ndumia-a3151034)  
 - 😄 **Pronouns:** He/Him  
 - ⚡ **Fun fact:** I turned coffee & code into a lifestyle 😎
 
